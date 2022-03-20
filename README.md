@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jognreynolds3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in code and cyber security
+- 🌱 I’m currently learning javascript,python,PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 testing this line for branching later
 
-linijng hgekj
-gunna say
-
+linijng hgeddd
+d
